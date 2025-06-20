@@ -15,7 +15,6 @@ PitchVision is a computer vision pipeline for analyzing soccer match videos. It 
 
 [![Watch the demo](https://img.youtube.com/vi/rcun0pR1yZ8/0.jpg)](https://youtu.be/rcun0pR1yZ8)
 
-// ... existing code ...
 ## Project Structure
 
 ```
